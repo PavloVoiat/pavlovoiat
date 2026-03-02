@@ -38,6 +38,13 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
+## 🛠 Инструменты разработки
+![Godot](https://img.shields.io/badge/Godot_Engine-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Acode](https://img.shields.io/badge/Acode-2C3E50?style=flat-square&logo=android&logoColor=white)
+
 ## 📫 Связаться со мной
 - **Instagram:** [@pavlovoiat](https://www.instagram.com/pavlovoiat)
 - **Gmail:** [voiatpavlo1@gmail.com](mailto:voiatpavlo1@gmail.com)
