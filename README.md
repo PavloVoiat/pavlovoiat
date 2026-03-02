@@ -1,16 +1,31 @@
-## Hi there 👋
+# Привет, я Павло! 👋
 
-<!--
-**PavloVoiat/pavlovoiat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я Full-stack разработчик из Украины 🇺🇦, сейчас живу в Германии 🇩🇪. 
+Моя страсть — IT и разработка игр, причём я придерживаюсь уникального подхода: **100% Mobile Development.**
 
-Here are some ideas to get you started:
+## 🛠 Мой необычный сетап
+У меня нет ПК, поэтому я создаю проекты прямо на своём **Xiaomi Pad 5**:
+- **Кодинг:** Acode (Android IDE)
+- **Gamedev:** Godot 4 (Mobile version)
+- **3D Моделирование:** Blender 4.5 LTS (через эмулятор) + Sketchfab
+- **Девайсы:** Xiaomi Pad 5 + Smart Pen 2nd Gen + Poco X6 Pro / Poco F3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏗 Текущий проект
+Сейчас я работаю над **мобильной игрой о своём районе** на Godot 4. Это проект, который объединяет мой опыт в GDScript, моделировании и оптимизации под Android.
+
+## 🚀 Стек технологий
+Я постоянно учусь и практикуюсь на следующих языках:
+- **Gamedev:** GDScript, C#
+- **System & Apps:** C++, Rust, Java, Python
+- **Web:** HTML, CSS, JavaScript
+- **Automation:** Bash
+
+## 🌍 Языки
+- 🇺🇦 Украинский (Native)
+- 🇷🇺 Русский
+- 🇬🇧 English
+- 🇩🇪 Deutsch
+- 🇪🇸 Español
+
+---
+*«Если нельзя обойтись без ПК — я использую эмулятор или онлайн-инструменты. Нет преград для того, кто любит IT!»*
