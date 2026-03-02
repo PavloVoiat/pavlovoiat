@@ -28,7 +28,7 @@
 
 ## 🚀 Стек технологий
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48ZyBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTExNy41IDMzLjVsLjMtLjJjLS42LTEuMS0xLjUtMi4xLTIuNC0yLjZsLTQ4LjMtMjcuOGMtLjgtLjUtMS45LS43LTMuMS0uNy0xLjIgMC0yLjMuMy0zLjEuN2wtNDggMjcuOWMtMS43IDEtMi45IDMuNS0yLjkgNS40djU1LjdjMCAxLjEuMiAyLjMuOSAzLjRsLS4yLjFjLjUuOCAxLjIgMS41IDEuOSAxLjlsNDguMiAyNy45Yy44LjUgMS45LjcgMy4xLjcgMS4yIDAgMi4zLS4zIDMuMS0uN2w0OC0yNy45YzEuNy0xIDIuOS0zLjUgMi45LTUuNHYtNTUuOGMuMS0uOCAwLTEuNy0uNC0yLjZ6bS01My41IDcwYy0yMS44IDAtMzkuNS0xNy43LTM5LjUtMzkuNXMxNy43LTM5LjUgMzkuNS0zOS41YzE0LjcgMCAyNy41IDguMSAzNC4zIDIwbC0xMyA3LjVjLTQuMi03LjUtMTIuMi0xMi41LTIxLjMtMTIuNWMtMTMuNSAwLTI0LjUgMTEtMjQuNSAyNC41czExIDI0LjUgMjQuNSAyNC41YzkuMSAwIDE3LjEtNSAyMS4zLTEyLjRsMTIuOSA3LjZjLTYuOCAxMS44LTE5LjYgMTkuOC0zNC4yIDE5Ljh6bTUxLTQxLjVoLTQuMWwtLjkgNGg0LjF2NWgtNC4xbC0xLjMgNmgtNS45bDEuMy02aC0zLjhsLTEuMyA2aC01LjlsMS4zLTZoLTMuMXYtNWg0LjFsLjktNGgtNC4xdi01aDQuMWwxLjMtNmg1LjlsLTEuMyA2aDMuOGwxLjMtNmg1LjlsLTEuMyA2aDQuMXY1ek0xMDIuMyA2NmgzLjhsLjktNGgtMy44eiIvPjwvZz48L3N2Zz4=)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
