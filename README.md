@@ -47,12 +47,18 @@
 ![Acode](https://img.shields.io/badge/Acode-3499FE?style=flat-square&logo=acode&logoColor=white)
 ![Termux](https://img.shields.io/badge/Termux-F0F0F0?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iYmxhY2siPjxwYXRoIGQ9Ik03IDE4SDIydjJIN3ptLTQtMmw3LTctNy03djJsNSA1LTUgNXoiLz48L3N2Zz4=&logoColor=black)
 
-## 📫 Связаться со мной
-- **Instagram:** [@pavlovoiat](https://www.instagram.com/pavlovoiat)
-- **Gmail:** [voiatpavlo1@gmail.com](mailto:voiatpavlo1@gmail.com)
+## 📩 Связаться со мной
+• ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white) — [voiatpavlo1@gmail.com](mailto:voiatpavlo1@gmail.com)<br>
+• ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white) — [@pavlovoiat](https://www.instagram.com/pavlovoiat)<br>
+• ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgLTIgMjQgMjQiIGZpbGw9IndoaXRlIj48cGF0aCBkPSJNMTkgMkg1QzMuMzQgMiAyIDMuMzQgMiA1djE0YzAgMS42NiAxLjM0IDMgMyAzaDE0YzEuNjYgMCAzLTEuMzQgMy0zVjVjMC0xLjY2LTEuMzQtMy0zLTN6bS0xMS41IDE1aC0zdi05aDN2OXptLTEuNS0xMC40NGMtLjk2IDAtMS43NC0uNzgtMS43NC0xLjc0cy43OC0xLjc0IDEuNzQtMS43NCAxLjc0Ljc4IDEuNzQgMS43NC0uNzggMS43NC0xLjc0IDEuNzR6bTEyLjUgMTAuNDRoLTN2LTQuNjNjMC0zLjAxLTMuNS0yLjc4LTMuNSAwdjQuNjNoLTN2LTloM3YxLjI1YzEuNC0yLjU4IDYuNS0yLjc3IDYuNSAyLjQ3djUuMjh6Ii8+PC9zdmc+) — [Pavlo Voiat](https://www.linkedin.com/in/pavlovoiat)<br>
+• ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white) — [Pavlo Voiat](https://www.facebook.com/profile.php?id=100086764634565)<br>
 
 ## 🌍 Языки
-- 🇺🇦 Украинский (Native) | 🇷🇺 Русский | 🇬🇧 English | 🇩🇪 Deutsch | 🇪🇸 Español
+- 🇺🇦 Украинский (Native)
+- 🇷🇺 Русский
+- 🇬🇧 English
+- 🇩🇪 Deutsch
+- 🇪🇸 Español
 
 ---
-*«Если нельзя обойтись без ПК — я использую эмулятор или онлайн-инструменты. Нет преград для того, кто любит IT!»*
+>*«Если нельзя обойтись без ПК — я использую эмулятор или онлайн-инструменты. Нет преград для того, кто любит IT!»*
