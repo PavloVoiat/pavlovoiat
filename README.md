@@ -43,12 +43,13 @@
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Acode](https://img.shields.io/badge/Acode-2C3E50?style=flat-square&logo=android&logoColor=white)
+![GameHub](https://img.shields.io/badge/GameHub-000000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDE1MCAxNTAiIGZpbGw9IndoaXRlIj48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjAwMDAwMCwxNTAuMDAwMDAwKSBzY2FsZSgwLjEwMDAwMCwtMC4xMDAwMDApIj48cGF0aCBkPSJNNTA3IDEyMDNjLTcwLTExNS0yMzktMzk4LTI0Ni00MTEtNy0xMyA2LTQyIDUzLTEyMmw2Mi0xMDUgMjc3LTNjMTUyLTEgMjc3LTQgMjc3LTYgMC0zLTE0LTI3LTMxLTU1bC0zMi01MS0yNzcgMC0yNzggMC05NiAxNTljLTUzIDg3LTk2IDE2Mi05NiAxNjcgMCA1IDU3IDEwNCAxMjcgMjIybDEyOCAyMTMgNjggMGMzNyAwIDY2LTMgNjQtN3ptNzQ2LTI2Mmw5Ny0xNjQtMTI2LTIxMy0xMjYtMjE0LTY5IDAtNjggMCAxMDYgMTc4YzU5IDk3IDExNiAxOTMgMTI3IDIxM2wyMCAzNi02MyAxMDctNjMgMTA2LTI3NCAwYy0xODIgMC0yNzQgMy0yNzQgMTAgMCA2IDcgMjIgMTUgMzUgOCAxNCAyMiAzNiAzMCA1MGwxNiAyNSAyNzctMiAyNzctMyA5OC0xNjR6bS02OTMtODZjMC0zMyAyLTM1IDM1LTM1IDM0IDAgMzUtMSAzNS00MCAwLTM5LTEtNDAtMzUtNDAtMzMgMC0zNS0yLTM1LTM1IDAtMzQtMS0zNS00MC0zNS0zOSAwLTQwIDEtNDAgMzQgMCAzMi0zIDM1LTMyIDM4LTMwIDMtMzMgNi0zNiA0MS0zIDM2LTMgMzcgMzIgMzcgMzQgMCAzNiAyIDM2IDM1IDAgMzQgMSAzNSA0MCAzNSAzOSAwIDQwLTEgNDAtMzV6bTM0NC0yN2MzMi00NSA3LTEwOC00Mi0xMDgtMzMgMC00NSA4LTYxIDM4LTM0IDY0IDYyIDEyOSAxMDMgNzB6bTE4MCAwYzIyLTMwIDIwLTYwLTQtODYtMzMtMzUtNzYtMjgtOTkgMTYtMzQgNjQgNjIgMTI5IDEwMyA3MHoiLz48L2c+PC9zdmc+)
+![Acode](https://img.shields.io/badge/Acode-3499FE?style=flat-square&logo=acode&logoColor=white)
+![Termux](https://img.shields.io/badge/Termux-F0F0F0?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iYmxhY2siPjxwYXRoIGQ9Ik03IDE4SDIydjJIN3ptLTQtMmw3LTctNy03djJsNSA1LTUgNXoiLz48L3N2Zz4=&logoColor=black)
 
 ## 📫 Связаться со мной
 - **Instagram:** [@pavlovoiat](https://www.instagram.com/pavlovoiat)
 - **Gmail:** [voiatpavlo1@gmail.com](mailto:voiatpavlo1@gmail.com)
-- **Phone:** [+380 68 454 00 50](tel:+380684540050) (UA) / [+49 163 313 46 85](tel:+491633134685) (DE)
 
 ## 🌍 Языки
 - 🇺🇦 Украинский (Native) | 🇷🇺 Русский | 🇬🇧 English | 🇩🇪 Deutsch | 🇪🇸 Español
