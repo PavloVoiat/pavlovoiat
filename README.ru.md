@@ -3,7 +3,7 @@
 [![en](https://img.shields.io/badge/🇬🇧_English-blue?style=for-the-badge)](README.md)
 [![es](https://img.shields.io/badge/🇪🇸_Español-blue?style=for-the-badge)](README.es.md)
 [![de](https://img.shields.io/badge/🇩🇪_Deutsch-blue?style=for-the-badge)](README.de.md)
-[![ru](https://img.shields.io/badge/🇷🇺_Русский-blue?style=for-the-badge)](README.ru.md)
+[![ru](https://img.shields.io/badge/🇷🇺_Русский-gold?style=for-the-badge)](README.ru.md)
 [![uk](https://img.shields.io/badge/🇺🇦_Українська-blue?style=for-the-badge)](README.uk.md)
 
 </div>
