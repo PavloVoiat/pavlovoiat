@@ -16,6 +16,12 @@
   <img alt="Top Langs" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pavlovoiat&layout=compact&theme=dark">
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=pavlovoiat&theme=github-dark&hide_border=true&area=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=pavlovoiat&theme=github-light&hide_border=false&area=true">
+  <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=pavlovoiat&theme=github-dark">
+</picture>
+
 ## 🛠 Мой необычный сетап
 У меня нет ПК, поэтому я создаю проекты прямо на своём **Xiaomi Pad 5**:
 - **Кодинг:** Acode (Android IDE)
