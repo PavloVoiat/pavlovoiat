@@ -16,15 +16,15 @@ My passion is IT and game development. I started my journey with just a tablet, 
 ## 📊 My GitHub Stats
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=pavlovoiat&show_icons=true&theme=dark&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=pavlovoiat&show_icons=true&theme=flat&hide_border=false">
-  <img alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=pavlovoiat&show_icons=true&theme=dark">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=pavlovoiat&show_icons=true&theme=dark&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=pavlovoiat&show_icons=true&theme=flat&hide_border=false">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pavlovoiat&show_icons=true&theme=dark">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=pavlovoiat&layout=compact&theme=dark&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=pavlovoiat&layout=compact&theme=flat&hide_border=false">
-  <img alt="Top Langs" src="https://github-stats-sigma-extened.dvercel.app/api/top-langs/?username=pavlovoiat&layout=compact&theme=dark">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pavlovoiat&layout=compact&theme=dark&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pavlovoiat&layout=compact&theme=flat&hide_border=false">
+  <img alt="Top Langs" src="https://github-readme-stats-sigma-five.dvercel.app/api/top-langs/?username=pavlovoiat&layout=compact&theme=dark">
 </picture>
 
 <picture>
