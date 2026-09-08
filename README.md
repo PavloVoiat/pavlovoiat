@@ -13,6 +13,7 @@
 I'm a **Full-stack developer** from Ukraine 🇺🇦, currently living in Germany 🇩🇪.
 My passion is IT and game development. I started my journey with just a tablet, and now I've upgraded to a laptop.
 
+<!--
 ## 📊 My GitHub Stats
 
 <picture>
@@ -32,6 +33,8 @@ My passion is IT and game development. I started my journey with just a tablet, 
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=pavlovoiat&theme=github-light&hide_border=false&area=true">
   <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=pavlovoiat&theme=github-dark">
 </picture>
+
+-->
 
 ## 🛠 My Setup
 
