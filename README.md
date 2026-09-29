@@ -1,8 +1,8 @@
 <div align="right">
   
 [![en](https://img.shields.io/badge/🇬🇧_English-gold?style=for-the-badge)](README.md)
-[![de](https://img.shields.io/badge/🇩🇪_Deutsch-blue?style=for-the-badge)](README.de.md)
-[![ru](https://img.shields.io/badge/🇷🇺_Русский-blue?style=for-the-badge)](README.ru.md)
+[![de](https://img.shields.io/badge/🇩🇪_Deutsch-grey?style=for-the-badge)](README.de.md)
+[![ru](https://img.shields.io/badge/🇷🇺_Русский-grey?style=for-the-badge)](README.ru.md)
 
 </div>
 
