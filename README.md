@@ -23,7 +23,7 @@ Much later I finally bought a real laptop, immediately set up dual-boot — and 
 
 | Device | Specs / Tools |
 |--------|---------------|
-| **Laptop** | **Huawei Matebook D15 (2020)** <br> • AMD Ryzen 7 3700U <br> • 8 GB RAM <br> • 512 GB SSD <br> • OS: **Arch Linux + Hyprland + Caelestia** |
+| **Laptop** | **Huawei Matebook D15 (2020)** <br> • AMD Ryzen 7 3700U <br> • 8 GB RAM <br> • 512 GB SSD <br> • OS: **Arch Linux + Hyprland + Caelestia** / Windows 11 Home |
 | **Tablet** | **Xiaomi Pad 5** + **Xiaomi Smart Pen 2 Gen** — my first real dev device, where it all began <br> • **Huawei MatePad Pro 12.2 (2025)** + M-Pencil Pro + Glide Keyboard <br> • Main apps: **Obsidian**, **Concepts** <br> • Acode & Termux — installed for rare cases only |
 | **Phones** | **Poco X6 Pro** (main), **Poco F3** (test device) <br> • Poco F3 runs **Evolution X (Android 16)** <br> • Root via **Magisk**, recovery: **OrangeFox** |
 
