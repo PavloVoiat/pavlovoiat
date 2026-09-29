@@ -1,72 +1,73 @@
 <div align="right">
   
-[![en](https://img.shields.io/badge/🇬🇧_English-blue?style=for-the-badge)](README.md)
-[![es](https://img.shields.io/badge/🇪🇸_Español-blue?style=for-the-badge)](README.es.md)
+[![en](https://img.shields.io/badge/🇬🇧_English-grey?style=for-the-badge)](README.md)
 [![de](https://img.shields.io/badge/🇩🇪_Deutsch-gold?style=for-the-badge)](README.de.md)
-[![ru](https://img.shields.io/badge/🇷🇺_Russisch-blue?style=for-the-badge)](README.ru.md)
-[![uk](https://img.shields.io/badge/🇺🇦_Ukrainisch-blue?style=for-the-badge)](README.uk.md)
+[![ru](https://img.shields.io/badge/🇷🇺_Русский-grey?style=for-the-badge)](README.ru.md)
 
 </div>
 
-# Hallo, ich bin Pavlo! 👋 (Deutsch)
+# Hallo, ich bin Pavlo! 👋
 
-Ich bin ein **Full-Stack-Entwickler** aus der Ukraine 🇺🇦 und lebe derzeit in Deutschland 🇩🇪.  
-Meine Leidenschaft sind die IT und die Spieleentwicklung. Ich habe meine Reise mit nur einem Tablet begonnen und nutze mittlerweile einen Laptop.
+Ich bin **Softwareentwickler** und lebe derzeit in Deutschland 🇩🇪.
+Meine Leidenschaft ist die IT — und meine Geschichte begann lange bevor ich einen echten Computer hatte.
 
-## 📊 Meine GitHub-Statistiken
+## 📖 Meine Geschichte
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=pavlovoiat&show_icons=true&theme=dark&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=pavlovoiat&show_icons=true&theme=flat&hide_border=false">
-  <img alt="GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pavlovoiat&show_icons=true&theme=dark">
-</picture>
+Alles begann mit einem Kindheitstraum: IT-Spezialist zu werden. Ich hatte keinen PC — also kaufte ich mir ein **Xiaomi Pad 5** Tablet, und dort fing alles an.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pavlovoiat&layout=compact&theme=dark&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pavlovoiat&layout=compact&theme=flat&hide_border=false">
-  <img alt="Top Langs" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pavlovoiat&layout=compact&theme=dark">
-</picture>
+Auf diesem Tablet habe ich **Godot**, **Acode**, **Termux** und sogar **VS Code Server** über Ubuntu in Termux zum Laufen gebracht. Ich habe **Arch LXQt + i3wm** über **Termux PRoot X11** eingerichtet, darin **VSCodium** installiert, **Blender** über den **GameHub**-Emulator gestartet und `max_phantom_processes` über **Shizuku** und **aShell** angepasst. Kurz gesagt: Wenn man etwas wirklich will, probiert man alles aus, bis es funktioniert, und findet eine unkonventionelle Lösung. Das Tablet wurde praktisch zu meinem Laptop.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=pavlovoiat&theme=github-dark&hide_border=true&area=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=pavlovoiat&theme=github-light&hide_border=false&area=true">
-  <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=pavlovoiat&theme=github-dark">
-</picture>
+Viel später habe ich mir endlich einen echten Laptop gekauft, sofort Dual-Boot eingerichtet — und direkt mit **Amberoid** angefangen.
 
 ## 🛠 Mein Setup
 
-Ich habe lange Zeit ausschließlich auf einem Tablet gearbeitet, aber jetzt habe ich einen **Laptop**:
-
-| Gerät | Spezifikationen / Tools |
-|-------|-------------------------|
-| **Laptop** | **Huawei Matebook D15 (2020)** <br> • AMD Ryzen 7 3700U <br> • 8 GB RAM <br> • 512 SSD |
-| **Tablet** | **Xiaomi Pad 5** mit Xiaomi Smart Pen 2. Gen – für Skizzen, Ideen und Coding von unterwegs <br> • Acode (Android IDE) <br> • Godot 4 (Mobile Version) |
-| **Smartphones**| Poco X6 Pro (Hauptgerät), Poco F3 – zum Testen von mobilen Apps | 
+| Gerät | Specs / Tools |
+|--------|---------------|
+| **Laptop** | **Huawei Matebook D15 (2020)** <br> • AMD Ryzen 7 3700U <br> • 8 GB RAM <br> • 512 GB SSD <br> • OS: **Arch Linux + Hyprland + Caelestia** / Windows 11 Home|
+| **Tablet** | **Xiaomi Pad 5** + **Xiaomi Smart Pen 2 Gen** — mein erstes echtes Dev-Gerät, wo alles begann <br> • **Huawei MatePad Pro 12.2 (2025)** + M-Pencil Pro + Glide Keyboard <br> • Haupt-Apps: **Obsidian**, **Concepts** <br> • Acode & Termux — nur für seltene Fälle installiert |
+| **Smartphones** | **Poco X6 Pro** (Hauptgerät), **Poco F3** (Testgerät) <br> • Poco F3 läuft mit **Evolution X (Android 16)** <br> • Root über **Magisk**, Recovery: **OrangeFox** |
 
 ## 🏗 Aktuelles Projekt
 
-Ich arbeite derzeit an einem **Handyspiel über meine Nachbarschaft** in Godot 4. Dieses Projekt kombiniert GDScript und eigenes Modeling in Blender.
+**[Amberoid](https://github.com/pavlovoiat/amberoid)** — ein minimalistischer Audio-Player, gebaut mit **Kotlin + Jetpack Compose**.
+Die Entwicklung findet komplett in **Android Studio** unter Arch Linux statt. Das erste Release ist bereits draußen. 🎧
 
-## 🚀 Tech-Stack
+## 🚀 Tech Stack
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48ZyBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTExNy41IDMzLjVsLjMtLjJjLS42LTEuMS0xLjUtMi4xLTIuNC0yLjZsLTQ4LjMtMjcuOGMtLjgtLjUtMS45LS43LTMuMS0uNy0xLjIgMC0yLjMuMy0zLjEuN2wtNDggMjcuOWMtMS43IDEtMi45IDMuNS0yLjkgNS40djU1LjdjMCAxLjEuMiAyLjMuOSAzLjRsLS4yLjFjLjUuOCAxLjIgMS41IDEuOSAxLjlsNDguMiAyNy45Yy44LjUgMS45LjcgMy4xLjcgMS4yIDAgMi4zLS4zIDMuMS0uN2w0OC0yNy45YzEuNy0xIDIuOS0zLjUgMi45LTUuNHYtNTUuOGMuMS0uOCAwLTEuNy0uNC0yLjZ6bS01My41IDcwYy0yMS44IDAtMzkuNS0xNy43LTM5LjUtMzkuNXMxNy43LTM5LjUgMzkuNS0zOS41YzE0LjcgMCAyNy41IDguMSAzNC4zIDIwbC0xMyA3LjVjLTQuMi03LjUtMTIuMi0xMi41LTIxLjMtMTIuNWMtMTMuNSAwLTI0LjUgMTEtMjQuNSAyNC41czExIDI0LjUgMjQuNSAyNC41YzkuMSAwIDE3LjEtNSAyMS4zLTEyLjFsMTIuOSA3LjZjLTYuOCAxMS44LTE5LjYgMTkuOC0zNC4yIDE5Ljh6bTU1LTQxLjVoLTQuMWwtLjkgNGg0LjF2NWgtNC4xbC0xLjMgNmgtNS45bDEuMy02aC0zLjhsLTEuMyA2aC01LjlsMS4zLTZoLTMuMXYtNWg0LjFsLjktNGgtNC4xdi01aDQuMWwxLjMtNmg1LjlsLTEuMyA2aDMuOGwxLjMtNmg1LjlsLTEuMyA2aDQuMXY1ek0xMDIuMyA2NmgzLjhwLjktNGgtMy44eiIvPjwvZz48L3N2Zz4=)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+### ✅ Aktuell in Verwendung
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-## 🛠 Entwickler-Tools
+> Mein Hauptfokus liegt auf **Kotlin & Android-Entwicklung**. **HTML / CSS / JS** nutze ich zusätzlich für mein Portfolio und eine eigene Firefox-Startseite.
+
+### 📦 Bekannt, aber nicht aktiv genutzt
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48ZyBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTExNy41IDMzLjVsLjMtLjJjLS42LTEuMS0xLjUtMi4xLTIuNC0yLjZsLTQ4LjMtMjcuOGMtLjgtLjUtMS45LS43LTMuMS0uNy0xLjIgMC0yLjMuMy0zLjEuN2wtNDggMjcuOWMtMS43IDEtMi45IDMuNS0yLjkgNS40djU1LjdjMCAxLjEuMiAyLjMuOSAzLjRsLS4yLjFjLjUuOCAxLjIgMS41IDEuOSAxLjlsNDguMiAyNy45Yy44LjUgMS45LjcgMy4xLjcgMS4yIDAgMi4zLS4zIDMuMS0uN2w0OC0yNy45YzEuNy0xIDIuOS0zLjUgMi45LTUuNHYtNTUuOGMuMS0uOCAwLTEuNy0uNC0yLjZ6bS01My41IDcwYy0yMS44IDAtMzkuNS0xNy43LTM5LjUtMzkuNXMxNy43LTM5LjUgMzkuNS0zOS41YzE0LjcgMCAyNy41IDguMSAzNC4zIDIwbC0xMyA3LjVjLTQuMi03LjUtMTIuMi0xMi41LTIxLjMtMTIuNWMtMTMuNSAwLTI0LjUgMTEtMjQuNSAyNC41czExIDI0LjUgMjQuNSAyNC41YzkuMSAwIDE3LjEtNSAyMS4zLTEyLjRsMTIuOSA3LjZjLTYuOCAxMS44LTE5LjYgMTkuOC0zNC4yIDE5Ljh6bTUxLTQxLjVoLTQuMWwtLjkgNGg0LjF2NWgtNC4xbC0xLjMgNmgtNS45bDEuMy02aC0zLjhsLTEuMyA2aC01LjlsMS4zLTZoLTMuMXYtNWg0LjFsLjktNGgtNC4xdi01aDQuMWwxLjMtNmg1LjlsLTEuMyA2aDMuOGwxLjMtNmg1LjlsLTEuMyA2aDQuMXY1ek0xMDIuMyA2NmgzLjhsLjktNGgtMy44eiIvPjwvZz48L3N2Zz4=)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
+
+### 🎨 Tools, die ich kenne, aber selten nutze
+
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot_Engine-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
+![Acode](https://img.shields.io/badge/Acode-3499FE?style=flat-square&logo=acode&logoColor=white)
+![Termux](https://img.shields.io/badge/Termux-F0F0F0?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iYmxhY2siPjxwYXRoIGQ9Ik03IDE4SDIydjJIN3ptLTQtMmw3LTctNy03djJsNSA1LTUgNXoiLz48L3N2Zz4=&logoColor=black)
+
+## 🛠 Dev-Tools
 
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
 ![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?style=flat-square&logo=vscodium&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot_Engine-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Acode](https://img.shields.io/badge/Acode-3499FE?style=flat-square&logo=acode&logoColor=white)
-![Termux](https://img.shields.io/badge/Termux-F0F0F0?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iYmxhY2siPjxwYXRoIGQ9Ik03IDE4SDIydjJIN3ptLTQtMmw3LTctNy03djJsNSA1LTUgNXoiLz48L3N2Zz4=&logoColor=black)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
+![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=flat-square&logo=hyprland&logoColor=black)
 
 ## 📩 Kontakt
 
@@ -78,12 +79,12 @@ Ich arbeite derzeit an einem **Handyspiel über meine Nachbarschaft** in Godot 4
 
 ## 🌍 Sprachen
 
-- 🇺🇦 Ukrainisch (Muttersprache)
-- 🇷🇺 Russisch
-- 🇬🇧 Englisch
-- 🇩🇪 Deutsch
-- 🇪🇸 Spanisch
+- 🇺🇦 **Ukrainisch** — Muttersprache
+- 🇷🇺 **Russisch** — auf Muttersprachniveau
+- 🇩🇪 **Deutsch** — in Ausbildung (Gymnasium, 13. Klasse)
+- 🇪🇸 **Spanisch** — Grundkenntnisse
+- 🇬🇧 **Englisch** — fließendes Verständnis (YouTube, Doku, TikTok)
 
 ---
 
->*"Wenn es ohne PC nicht geht, nutze ich einen Emulator oder Online-Tools. Für diejenigen, die IT lieben, gibt es keine Barrieren!"*
+>*"Es gibt keine Barrieren für die, die IT lieben — selbst ohne PC findet man mit einem Emulator oder Online-Tools eine Lösung."*
